@@ -1,0 +1,8 @@
+.ahover:hover {
+    background-color:antiquewhite;
+    border-radius: 2px;
+}
+
+.navbar, p, h1, h2, h4, li {
+    font-family: 'Merriweather', serif;
+}
